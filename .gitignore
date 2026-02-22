@@ -7,7 +7,7 @@
 .buildlog/
 .history
 .idea
-
+.DS_store
 
 # Flutter repo-specific
 /bin/cache/
